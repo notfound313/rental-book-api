@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "developer",
+    "password": "supershy",
+    "database": "rent_book_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "developer",
+    "password": "supershy",
+    "database": "rent_book_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "developer",
+    "password": "supershy",
+    "database": "rent_book_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
